@@ -30,6 +30,6 @@ Parameters:
 
 * `pub_key` - Public key of the lot's owner
 * `lot_id` - The transaction hash of which the lot was created
-* `start_price` - The bid value
+* `value` - The bid value
 
 
