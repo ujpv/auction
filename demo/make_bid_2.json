@@ -1,0 +1,11 @@
+{
+  "body": {
+    "pub_key": "ae6a1c4e84886999dfec7f4d792bf133e7beacf974c000fe45c443727df49df2",
+    "lot_id": "8cce1191e66ba040af148db34177068ff64ef7006e2b8fa6ec017bb0a440cb6b",
+    "value": "200"
+  },
+  "protocol_version": 0,
+  "service_id": 1,
+  "message_id": 1,
+  "signature":"9f684227f1de663775848b3db656bca685e085391e2b00b0e115679fd45443ef58a5abeb555ab3d5f7a3cd27955a2079e5fd486743f36515c8e5bea07992100b"
+}
